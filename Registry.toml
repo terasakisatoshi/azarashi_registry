@@ -4,3 +4,4 @@ repo = "git@github.com:terasakisatoshi/azarashi_registry.git"
 description = "MyLocalRegistryForAzarashi"
 
 [packages]
+b612f6cd-3a6e-4e62-9d6b-447ae96af911 = { name = "Kyulacs", path = "K/Kyulacs" }
