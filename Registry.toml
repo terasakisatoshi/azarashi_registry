@@ -1,0 +1,6 @@
+name = "azarashi"
+uuid = "7cbffd09-1bce-4516-9b0f-552b3a3d1a82"
+repo = "git@github.com:terasakisatoshi/azarashi_registry.git"
+description = "MyLocalRegistryForAzarashi"
+
+[packages]
